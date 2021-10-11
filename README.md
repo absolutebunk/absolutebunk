@@ -1,0 +1,5 @@
+- 👋 Hey-o, I’m @absolutebunk
+- 👀 I’m interested in ignoring that which cannot run from the terminal
+- 🌱 I’m currently exploring the depths of OCCT and Vulkan
+- 💞️ I’m looking to collaborate on the interface of geometry and music
+- 📫 I can be difficult to reach
